@@ -1,9 +1,0 @@
-* D:\IEP-E\Exercise 4\4.asc
-R N002 N001 47
-V0 N001 0 0
-D1 N002 0 1N5817
-.model D D
-.lib C:\Users\Ender\AppData\Local\LTspice\lib\cmp\standard.dio
-.dc V0 0 50 0.1
-.backanno
-.end
